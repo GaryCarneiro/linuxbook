@@ -10,5 +10,9 @@ The Processor is a short for Central Processing Unit. This is brain of the compu
 
 For example, lets say you have a calculator program running on GUI, the processor is actually computing the numbers as advised by the program. You type in the numbers and want to add them together, this forms a Instruction and Operands to the Processor. Below is an instruction to add 2 numbers 20 and 10
 
+```asm
+
 MOV EAX, 20
 ADD EAX, 10
+
+```
