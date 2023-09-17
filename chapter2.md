@@ -16,3 +16,7 @@ MOV EAX, 20
 ADD EAX, 10
 
 ```
+
+In the above example MOV and ADD are Instructions to the processors. These are similar to functions in High Level computer language. MOV and ADD are instructions while anything following that line are arguments or operands to the instructions.
+
+To further elaborate the operation we are MOVing 20 to a special place in Processor called Registers. Registers are closest to the CPU and are embedded on the Processor chip. Once we move 20 to a register called EAX ( which is short-form of Extended Accumulator) we ADD 10 to EAX. The result, which is 30 is stored back in EAX register.
