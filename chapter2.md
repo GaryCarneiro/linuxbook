@@ -5,7 +5,7 @@ Before we embark on our journey to learning Linux, let us understand how Linux a
 
 ## The Processor
 
-(https://drive.google.com/file/d/1jOOQ4LAFnyiu1jnsy7Fyz6CROqkTIYqP/view)
+![AMD Ryzen Processor](https://drive.google.com/file/d/1jOOQ4LAFnyiu1jnsy7Fyz6CROqkTIYqP/view)
 
 
 The Processor is a short for Central Processing Unit. This is brain of the computer and just like the brain, it interacts with different parts of the body, a processor interacts with different components such  as Disk, GPU, Mouse, Keyboard, Network Card etc. The Processor takes differents instructions from Input devices and executes tasks in form ones and zeroes. These ones and zeroes are called instructions to the processor and whole Computer System is built around the processor executing these ones and zeroes
