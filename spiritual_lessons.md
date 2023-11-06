@@ -7,3 +7,8 @@ While debugging any issue, the efforts are rewarded to anybody who tries to find
 - System adapts to corrections. Human beings are bit slow to this.
 
 Whenever we find an issues we apply a fix. Think of this code patch as a correction in behaviour of how the system interacts with us. The system does not have emotional baggage to adapt to new behaviour. This is why we love systems, they do exactly what you program them to do. Nothing more and nothing less.
+
+
+- Errors are known mistakes. Accept your nature.
+
+Most system exceptions are known. NoMemory Error, ConnectionReset Error, TimeOut Error etc. These are basic errors that define the nature of the error. You need memory for the code to perform correctly. This is a given. You must not have base errors for any systems to work. If you do have base errors its part of the system. You just need to handle these errors correctly i.e. we need to work with nature to have a function system even if it contains some bad bits of our self.
