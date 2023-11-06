@@ -10,5 +10,5 @@ Whenever we find an issues we apply a fix. Think of this code patch as a correct
 
 
 - Errors are known mistakes. Accept your nature.
-
-Most system exceptions are known. NoMemory Error, ConnectionReset Error, TimeOut Error etc. These are basic errors that define the nature of the error. You need memory for the code to perform correctly. This is a given. You must not have base errors for any systems to work. If you do have base errors its part of the system. You just need to handle these errors correctly i.e. we need to work with nature to have a function system even if it contains some bad bits of our self.
+  
+Most system exceptions are known. NoMemory Error, ConnectionReset Error, TimeOut Error etc. These are basic errors that define the nature of the error. You need memory for the code to perform correctly. This is a given. You must not have base errors for any systems to work, if you do have base errors its part of the system. You just need to handle these errors correctly i.e. we need to work with nature to have a function system even if it contains some bad bits of our self.
